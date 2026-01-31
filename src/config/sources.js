@@ -8,7 +8,7 @@ export const xAccounts = [
   'ClementDelangue',// Clem Delangue - Hugging Face
   'lemoink',        // Margaret Mitchell - AI ethics
   'ylecun',         // Yann LeCun - Meta AI
-  'karpathy',       // Andrej Karpathy - AI researcher
+  'karpathy',       // Andrej Karpathy - ex-Tesla AI
   'jeremyphoward',  // Jeremy Howard - fast.ai
   'goodfellow_ian', // Ian Goodfellow
   'AndrewYNg',      // Andrew Ng
@@ -16,6 +16,25 @@ export const xAccounts = [
   'JeffDean',       // Jeff Dean - Google
   'demishassabis',  // Demis Hassabis - DeepMind
   'mustafasuleyman',// Mustafa Suleyman - Microsoft AI
+  
+  // Top AI Builders & Influencers (from @kloss_xyz list)
+  'levelsio',       // Pieter Levels - AI indie maker
+  'AlexFinn',       // Alex Finn - Claude Code maxi
+  'kloss_xyz',      // Kloss - AI curator
+  'heyBarsee',      // Barsee - AI tools & news
+  'LinusEkenstam',  // Linus Ekenstam - AI educator
+  'javilopen',      // Javier Lopez - AI prompts & guides
+  'ykhli',          // Yang - AI builder
+  'mckaywrigley',   // McKay Wrigley - AI developer
+  'rowancheung',    // Rowan Cheung - AI news
+  'sullyomarr',     // Sully Omar - AI automation
+  'rezawaran',      // Reza Waran - AI insights
+  'nicholascarp',   // Nicholas Carpathios - AI builder
+  'kevinbasmine',   // Kevin Basmine - AI product
+  'hasantoxar',     // Hasan Toor - AI content
+  'aidaily',        // AI Daily - AI news aggregator
+  'sairahul1',      // Sai Rahul - AI prompts
+  'smtgpt',         // SMT GPT - AI workflows
   
   // AI News & Analysis
   'AIExecDirector', // AI news
